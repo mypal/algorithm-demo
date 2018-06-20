@@ -1,0 +1,27 @@
+{
+  "name": "algorithm-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mypalg/algorithm-demo.git"
+  },
+  "keywords": [
+    "algorithm",
+    "demo"
+  ],
+  "author": "mypal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mypalg/algorithm-demo/issues"
+  },
+  "homepage": "https://github.com/mypalg/algorithm-demo#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
